@@ -1,12 +1,12 @@
 # musicplayer
-python-Tkinter music player 
+#python-Tkinter music player 
 
 
-requirements:
-             tkinter lib
-                        -->pip install tkinter
-             pygame lib
-                        -->pip install pygame
+#requirements:
+#             tkinter lib
+#                        -->pip install tkinter
+#             pygame lib
+#                        -->pip install pygame
                         
                         
                         
