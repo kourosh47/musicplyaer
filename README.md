@@ -1,4 +1,4 @@
-# musicplyaer
+# musicplayer
 python-Tkinter music player 
 
 
