@@ -4,7 +4,7 @@
 
 #requirements:
 #             tkinter lib
-#                        -->pip install tkinter
+#                        -->pip install tk
 #             pygame lib
 #                        -->pip install pygame
                         
